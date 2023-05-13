@@ -1,0 +1,14 @@
+Java Roadmap
+
+
+Java Basics (Till Maps including OOP’s) - 12 hrs. (https://youtu.be/BGTx91t8q50?t=5628)
+Java DSA - 10 hrs (https://youtu.be/CBYHwZcbD-s  and another FCC Course)
+Spring Boot Course - 10hrs (https://youtu.be/zvR-Oif_nxg)
+Android Development - 12hrs (https://youtu.be/mXjZQX3UzOs)
+System Design - 2 hrs (https://youtu.be/m8Icp_Cid5o)
+Git - 1 hr (https://youtu.be/8JJ101D3knE)
+Docker and Kubernetes - 6 hrs (https://youtu.be/kTp5xUtcalw)
+Databases - 20 hrs (https://youtu.be/4cWkVbC2bNE)
+
+
+Total -  73 hours
